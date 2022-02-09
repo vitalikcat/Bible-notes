@@ -2,6 +2,16 @@ body {
   background-color: hsla(240, 77%, 86%, 0.733);
 }
 
+details {
+  width: 50px;
+  cursor: pointer;
+}
+
+p {
+  width: 800px;
+  color: rgb(8, 23, 66);
+}
+
 .mainHeader {
   text-align: center;
 }

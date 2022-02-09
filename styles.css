@@ -7,6 +7,10 @@ details {
   cursor: pointer;
 }
 
+h3 {
+  color: green;
+}
+
 p {
   width: 800px;
   color: rgb(8, 23, 66);

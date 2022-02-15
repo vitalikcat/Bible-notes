@@ -27,6 +27,13 @@ h4 {
 
 p {
   width: 800px;
+  font-size: 22px;
+}
+
+p::first-letter {
+  text-transform: uppercase;
+  font-size: 34px;
+  color: #ff1717;
 }
 
 a {

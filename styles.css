@@ -1,21 +1,45 @@
 body {
   background-color: hsla(240, 77%, 86%, 0.733);
+  background-image: linear-gradient(#0b486b, #f56217);
+  background-attachment: fixed;
 }
 
 details {
   width: 50px;
   cursor: pointer;
+  color: aliceblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  cursor: pointer;
 }
 
 h3 {
-  color: green;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+}
+
+h4 {
+  color: bisque;
+  font-size: 18px;
 }
 
 p {
   width: 800px;
-  color: rgb(8, 23, 66);
+}
+
+a {
+  color: rgb(255, 7, 7);
 }
 
 .mainHeader {
   text-align: center;
+  font-size: 42px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+hr:hover {
+  color: rgb(184, 184, 184);
+  cursor: pointer;
 }

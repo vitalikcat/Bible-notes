@@ -1,6 +1,6 @@
 body {
   background-color: hsla(240, 77%, 86%, 0.733);
-  background-image: linear-gradient(#0b486b, #f56217);
+  background-image: linear-gradient(to right, #0b486b, #f56217);
   background-attachment: fixed;
 }
 
